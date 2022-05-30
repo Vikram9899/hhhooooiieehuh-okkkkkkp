@@ -1,0 +1,84 @@
+@charset "utf-8";
+/* CSS Document */
+.bg1{width:1000px; margin:auto;}
+.bg2{width:1000px; background-image:url(../images/center-bg.jpg); background-repeat:repeat-y; margin:auto; height:960px;}
+.bg3{width:1000px; margin:auto;}
+.bg4{width:1000px; margin:auto;}
+
+.head-bg{width:1000px; background-image:url(../images/head-bg.jpg); background-repeat:no-repeat; margin:auto; height:125px;}
+h1{font-family:"VAGRoundedBT-Regular", Arial, Helvetica, sans-serif; font-size:45px; color:#FFFFFF; text-align:center; padding: 30px 0 0 0; margin:0px; text-transform:uppercase;}
+.b-area{width:947px; margin:auto; height:323px;}
+.banner{width:633px; float:left;}
+.feature{width:314px; float:left; font-family:"Univers", Arial, Helvetica, sans-serif; font-size:17px; color:#303030; padding: 10px 0 0px 0; line-height:40px;}
+.green-bg{width:913px; background-image:url(../images/g-bg.jpg); background-repeat:no-repeat; margin:auto; height:65px;}
+
+.g1{float:left; font-family:"VAGRoundedBT-Regular", Arial, Helvetica, sans-serif; font-size:24px; color:#ffffff; padding: 17px 15px 0px 20px;}
+.g2{float:left; padding-top:7px; }
+.menu {float:left; height:32px; width:305px; padding-left:10px;
+    -moz-border-radius:8px 8px 8px 8px; /* FF1+ (FF4-) */
+	-webkit-border-radius:8px 8px 8px 8px; /* Saf3-4, iOS 1+, Android 1.5+ */
+	-opera-border-radius:8px 8px 8px 8px; /* Opera 11- */
+    border-radius:8px 8px 8px 8px; /* Opera 10.5, IE9, Saf5, Chrome, FF4 */}
+.g3{margin-top:-35px; clear:both; float:right; }
+
+.g4{float:right; width:400px;}
+.bpart{width:913px; margin:auto;}
+.lpanel{width:588px; float:left;}
+.rpanel{width:325px; float:left; padding-top:30px;}
+.head{font-family:"univers_57_condensed_bold", Arial, Helvetica, sans-serif; font-size:28px; color:#F48100; padding:25px 0 0 10px;}
+.text{font-family:"univers_57_condensed_bold", Arial, Helvetica, sans-serif; font-size:16px; color:#303030; padding:0px 15px 10px; 10px; line-height:25px; text-align:justify;}
+.gbox{width:579px; height:130px; background-image:url(../images/green-box.jpg); background-repeat:no-repeat;}
+.quote{font-family:"univers_57_condensed_bold", Arial, Helvetica, sans-serif; font-size:23px; color:#FFFFFF; padding:30px 0 0 20px; line-height:35px;}
+
+.r1{width:325px; height:116px; background-image:url(../images/gray-top.jpg); background-repeat:no-repeat;}
+.r2{width:325px; background-image:url(../images/gray-center.jpg); background-repeat:repeat-y;}
+.r3{width:325px; height:10px;}
+.head1{font-family:"univers_57_condensed_bold", Arial, Helvetica, sans-serif; font-size:30px; color:#ffffff; padding:50px 0 0 0px; text-align:center;}
+.text1{font-family:"univers_57_condensed_bold", Arial, Helvetica, sans-serif; font-size:16px; color:#DD7400; padding:0px 0px 18px 15px; line-height:25px;}
+span{font-family:"univers_57_condensed_bold", Arial, Helvetica, sans-serif; font-size:15px; color:#3B3B3B; padding:0px 0px 0px 0px; line-height:25px;}
+.copyright{font-family:Arial, Helvetica, sans-serif; font-size:13px; color:#000000; padding:20px 0px 20px 0px; text-align:center;}
+
+.bottom-bg{width:1000px; background-image:url(../images/o-bg.jpg); background-repeat:no-repeat; margin:auto; height:94px;}
+h2{font-family:"VAGRoundedBT-Regular", Arial, Helvetica, sans-serif; font-size:35px; color:#FFFFFF; text-align:center; padding: 25px 0 0 0; margin:0px; text-transform:uppercase;}
+
+
+/* AWeber CSS Start Here */
+#af-form-643224905 .af-body .af-textWrap{width:100%;display:block;float:none;}
+#af-form-643224905 .af-body .privacyPolicy{color:#000000;font-size:11px;font-family:Verdana, sans-serif;}
+#af-form-643224905 .af-body a{color:#880303;text-decoration:underline;font-style:normal;font-weight:normal;}
+#af-form-643224905 .af-body input.text, #af-form-643224905 .af-body textarea{background-color:#FFFFFF;border-color:#919191;border-width:1px;border-style:solid;color:#000000;text-decoration:none;font-style:normal;font-weight:normal;font-size:12px;font-family:Verdana, sans-serif; width:240px; margin-top:2px; height:20px;}
+#af-form-643224905 .af-body input.text:focus, #af-form-643224905 .af-body textarea:focus{background-color:#FFFAD6;border-color:#030303;border-width:1px;border-style:solid;}
+#af-form-643224905 .af-body label.previewLabel{display:block;float:none;text-align:left;width:auto;color:#000000;text-decoration:none;font-style:normal;font-weight:normal;font-size:12px;font-family:Verdana, sans-serif;}
+#af-form-643224905 .af-body{padding-bottom:5px;padding-top:5px;background-repeat:no-repeat;background-position:inherit;background-image:none;color:#000000;font-size:11px;font-family:Verdana, sans-serif;}
+#af-form-643224905 .af-quirksMode{padding-right:10px;padding-left:10px;}
+#af-form-643224905 .af-standards .af-element{padding-right:10px;padding-left:10px; float:left;}
+#af-form-643224905 .buttonContainer input.submit{background-image:url(../images/submit.png); background-repeat:no-repeat; text-decoration:none; width:205px; height:58px; padding:0px 0 0 0px; z-index:1000px;}
+#af-form-643224905 .buttonContainer input.submit{width:auto;}
+#af-form-643224905 .buttonContainer{text-align:center; margin-top:-8px;}
+#af-form-643224905 button,#af-form-643224905 input,#af-form-643224905 submit,#af-form-643224905 textarea,#af-form-643224905 select,#af-form-643224905 label,#af-form-643224905 optgroup,#af-form-643224905 option{float:none;position:static;margin:0;}
+#af-form-643224905 div{margin:0;}
+#af-form-643224905 form,#af-form-643224905 textarea,.af-form-wrapper,.af-form-close-button,#af-form-643224905 img{float:left;color:inherit;position:static;background-color:none;border:none;margin:0;padding:0;}
+#af-form-643224905 input,#af-form-643224905 button,#af-form-643224905 textarea,#af-form-643224905 select{font-size:100%; margin-top:7px;}
+#af-form-643224905 select,#af-form-643224905 label,#af-form-643224905 optgroup,#af-form-643224905 option{padding:0;}
+#af-form-643224905,#af-form-643224905 .quirksMode{/*width:425px;*/}
+#af-form-643224905.af-quirksMode{overflow-x:hidden;}
+#af-form-643224905{display:block;}
+#af-form-643224905{overflow:hidden;}
+.af-body .af-textWrap{text-align:left;}
+.af-body input.image{border:none!important;}
+.af-body input.submit,.af-body input.image,.af-form .af-element input.button{float:left!important;}
+.af-body input.text{width:100%;float:none;padding:2px!important;}
+.af-body.af-standards input.submit{padding:4px 12px;}
+.af-clear{clear:both;}
+.af-element label{text-align:left;display:block;float:left;}
+.af-element{padding:5px 0;}
+.af-form-wrapper{text-indent:0;}
+.af-form{text-align:left;margin:auto;}
+.af-quirksMode .af-element{padding-left:0!important;padding-right:0!important;}
+.lbl-right .af-element label{text-align:right;}
+.formleft{float:left;}
+.formright{float:right;}
+.submitbtn{ background:url(../images/submit.png) 0 0 no-repeat!important;; width:106px; height:35px; border:none; cursor:pointer;}
+.submitbtn:hover{ background:url(../images/submithover.png) 0 0 no-repeat!important;}
+
+/* AWeber CSS End Here */
